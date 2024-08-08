@@ -1,0 +1,17 @@
+.home {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to right bottom, #fda4af, #fef08a);
+
+  h1 {
+    margin: 0;
+    font-size: 5rem;
+    line-height: 7.5rem;
+    -webkit-text-stroke: 2px #065f46;
+    color: #34d399;
+  }
+}
